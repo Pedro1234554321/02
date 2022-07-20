@@ -8,5 +8,5 @@ let cadastroAtivado = true;
 
 const texto1 = "Alura"
 const texto2 = "a"
-
+const texto3 = "k"
 console.log(texto1 === texto2)
